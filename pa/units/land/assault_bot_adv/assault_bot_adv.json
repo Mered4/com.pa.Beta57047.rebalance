@@ -94,7 +94,7 @@
         "socket_leftMuzzle"
       ], 
       "spec_id": "/pa/units/land/assault_bot_adv/assault_bot_adv_tool_weapon.json"
-    }, 
+    } 
   ], 
   "transportable": {
     "size": 1

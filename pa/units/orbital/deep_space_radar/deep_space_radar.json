@@ -87,7 +87,7 @@
     "UNITTYPE_Orbital", 
     "UNITTYPE_Structure", 
     "UNITTYPE_Advanced", 
-    "UNITTYPE_Recon", , 
+    "UNITTYPE_Recon", 
     "UNITTYPE_FabAdvBuild", 
     "UNITTYPE_Important"
   ]

@@ -92,7 +92,8 @@
       "aim_bone": "socket_aim", 
       "muzzle_bone": "socket_muzzle", 
       "spec_id": "/pa/units/land/land_scout/land_scout_tool_weapon.json"
-    },
+    }
+  ],
   "transportable": {
     "size": 1
   }, 
