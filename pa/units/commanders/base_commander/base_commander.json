@@ -33,7 +33,7 @@
       "cue": "/SE/Selection/commander"
     }
   }, 
-  "build_metal_cost": 25000, 
+  "build_metal_cost": 1500, 
   "buildable_types": "CmdBuild", 
   "command_caps": [
     "ORDER_Move", 
@@ -85,8 +85,8 @@
     "sync_radius_to_extents": true
   }, 
   "production": {
-    "energy": 3000, 
-    "metal": 30
+    "energy": 1000, 
+    "metal": 10
   }, 
   "recon": {
     "observer": {

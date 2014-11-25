@@ -1,38 +1,20 @@
 {
-    "enabled": true,
-
-    "context": "server",
-
-    "identifier": "com.pa.Beta57047.rebalance",
-
-    "display_name": "Beta Balance",
-
-    "build": "57047",
-
-    "date": "2014/11/22",
-
-    "description": "The Balance from Beta",
-
-    "category": [
-
-        "in-game",
-
-        "server-mod"
-
-    ],
-
-    "author": "Mered4",
-
-    "version": "1.0",
-
-    "signature": "(not yet implemented)",
-
-    "forum": "",
-
-    "icon": "",
-
-    "priority": 100,
-
-    "dependencies": []
-
+  "author": "Mered4", 
+  "build": "57047", 
+  "category": [
+    "in-game", 
+    "server-mod"
+  ], 
+  "context": "server", 
+  "date": "2014/11/22", 
+  "dependencies": [], 
+  "description": "The Balance from Beta", 
+  "display_name": "Beta Balance", 
+  "enabled": true, 
+  "forum": "", 
+  "icon": "", 
+  "identifier": "com.pa.Beta57047.rebalance", 
+  "priority": 100, 
+  "signature": "(not yet implemented)", 
+  "version": "1.0"
 }
