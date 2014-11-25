@@ -68,6 +68,7 @@
     "push_class": 2, 
     "radius": 6
   }, 
+  "si_name":"gunship",
   "recon": {
     "observer": {
       "items": [
